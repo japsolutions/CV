@@ -5,6 +5,8 @@ I am a dedicated professional in Data Big Data, with strong expertise in Data En
 Connect with me:
 https://www.linkedin.com/in/johnny-ahumada-pereira-7932615a/
 
+ahumadapereira@gmail.com
+
 Languages and Tools:
 🔧 Tools
 📊 Power BI    ☁️ Azure   🚀 AWS   📈 Tableau   🧱 Fabric   📐 Excel   🐍 Streamlit
