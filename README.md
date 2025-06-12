@@ -1,1 +1,3 @@
-![image](https://github.com/user-attachments/assets/356ec522-c3c2-4533-848b-40253a6037b5)
+Hi 👋, I'm Johnny Ahumada Pereira
+Data Scientist & Analyst || PMO Developer | Functional Analyst
+I am a dedicated professional in Data Big Data, with strong expertise in Data Engineering. My goal is to leverage my skills to solve complex problems and enhance business processes through intelligent data utilization.
